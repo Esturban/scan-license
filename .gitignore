@@ -1,2 +1,15 @@
 .DS_Store
 .codegraph/
+.wolf/
+.claude/
+
+# AI scaffolding / IDE (never public)
+CLAUDE.md
+AGENTS.md
+GEMINI.md
+.cursorrules
+.clinerules
+.windsurfrules
+.roo*
+memory-bank/
+.github/copilot-instructions.md
